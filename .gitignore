@@ -1,0 +1,9 @@
+*
+!.gitignore
+!src
+!src/*
+!include
+!include/**
+!Makefile
+!README
+!nim.cfg
